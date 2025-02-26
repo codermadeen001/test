@@ -1,2 +1,2 @@
 # test
-React/Laravel CRUD, with Google Login, and email notification
+VUE/Laravel CRUD, with Google Login, and email notification
